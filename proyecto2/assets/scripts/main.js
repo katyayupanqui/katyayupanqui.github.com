@@ -30,7 +30,7 @@ closes.forEach(function(close){
         content.classList.add("animated");
         content.classList.add("fadeOutRight");
         setTimeout(() => {
-            location.href="file:///C:/Users/Katy/Documents/aiep/katyayupanqui.github.com/proyecto2/index.html";
+            location.href="https://katyayupanqui.github.io/proyecto2/";
         }, 1000);
     })
 
